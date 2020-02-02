@@ -1,12 +1,13 @@
 :root {
   --color-primary: #113604;
   --color-accent: #B5BAB4;
-  --color-accent: #A0761F;
+  --color-accent-two: #A0761F;
   --color-navy: #091F5A;
   --color-crimson: #3E0707;
   --color-link: #36AD0C;
 
   --font-primary: "Roboto", sans-serif;
+  --font-secondary: "Merriweather", serif;
 }
 
 html {
@@ -15,4 +16,46 @@ html {
 
 a {
   color: var(--color-link);
+  text-decoration: none;
+}
+
+mark {
+  background-color: var(--color-link);
+}
+
+h1 {
+  font-weight: bold;
+  color: var(--color-primary);
+}
+
+h2 {
+  font-weight: bold;
+  font-family: var(--font-secondary);
+  color: var(--color-accent);
+}
+
+h3 {
+  color: var(--color-primary);
+  font-weight: bold;
+}
+
+h4 {
+  color: var(--color-primary);
+  font-weight: normal;
+}
+
+h5 {
+  color: var(--color-primary);
+  font-weight: normal;
+}
+
+h6 {
+  color: var(--color-primary);
+  font-weight: normal;
+}
+
+ul, li {
+  list-style-type: none;
+  font-weight: bold;
+  color: var(--color-primary);
 }
