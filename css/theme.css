@@ -30,7 +30,6 @@ h1 {
 
 h2 {
   font-weight: bold;
-  font-family: var(--font-secondary);
   color: var(--color-primary);
 }
 
