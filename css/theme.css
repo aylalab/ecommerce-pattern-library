@@ -19,10 +19,6 @@ a {
   text-decoration: none;
 }
 
-mark {
-  background-color: var(--color-link);
-}
-
 h1 {
   font-weight: bold;
   color: var(--color-primary);
@@ -75,7 +71,6 @@ mark {
 }
 
 blockquote {
-  color: var(--color-link);
   font-style: bold;
 }
 
