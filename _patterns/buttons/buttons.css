@@ -21,6 +21,7 @@
   border-radius: 30px;
   background-color: transparent;
   color: var(--color-primary);
+  border-color: var(--color-primary);
   transition: all .3s ease 0s;
 }
 
