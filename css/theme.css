@@ -87,22 +87,3 @@ cite {
 q {
   color: var(--color-primary);
 }
-
-.btn {
-  border-radius: 30px;
-  border: none;
-  color: var(--color-primary);
-  background-color: #fff;
-  padding-left: 2em;
-  padding-right: 2em;
-  padding-top: .7em;
-  padding-bottom: .7em;
-  box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
-  transition: all .3s ease 0s;
-}
-
-.btn:hover {
-  background-color: var(--color-accent-two);
-  box-shadow: 0 15px 20px var(--color-accent);
-  transform: translateY(-7px);
-}
