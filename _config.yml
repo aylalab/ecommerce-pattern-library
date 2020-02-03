@@ -1,5 +1,9 @@
 permalink: pretty
 theme: jekyll_patternbot
+patternbot:
+  title: "Green Java"
+  description: |
+    An online coffee roasting company that specializes in sustainably sourcing and producing the best quality of coffee.
 
 patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Merriweather:900|Roboto:400,700&display=swap"
