@@ -8,9 +8,8 @@ patternbot:
 patternbot:
   font_url: "https://fonts.googleapis.com/css?family=Merriweather:900|Roboto:400,700&display=swap"
   colors:
-    accent: "--color-primary"
-    patterns:
-      brand.logos: "--color-primary"
+    background: "--color-primary"
+    accent: "--color-accent"
   rationales:
     typefaces.primary: |
       Roboto was selected because it is a modern and clean sans-serif that is easy to read and reflects the tone of the company. Roboto is to be used for all body copy and most headings.
