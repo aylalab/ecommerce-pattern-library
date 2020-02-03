@@ -59,3 +59,22 @@ ul, li {
   font-weight: bold;
   color: var(--color-primary);
 }
+
+dl, dt {
+  list-style-type: none;
+  font-weight: bold;
+  color: var(--color-primary);
+}
+
+dl, dd {
+  font-weight: normal;
+}
+
+mark {
+  background-color: var(--color-link);
+}
+
+cite {
+  font-style: italic;
+  color: var(--color-primary);
+}
