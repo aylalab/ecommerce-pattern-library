@@ -72,10 +72,20 @@ dl, dd {
 
 mark {
   background-color: var(--color-accent);
+  color: #fff;
+}
+
+blockquote {
+  color: var(--color-link);
+  font-style: bold;
 }
 
 cite {
   font-style: italic;
+  color: var(--color-link);
+}
+
+q {
   color: var(--color-primary);
 }
 
