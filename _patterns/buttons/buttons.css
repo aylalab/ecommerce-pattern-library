@@ -12,7 +12,7 @@
 }
 
 .btn:hover {
-  background-color: var(--color-accent-two);
+  background-color: var(--color-primary);
   box-shadow: 0 15px 20px var(--color-accent);
   transform: translateY(-7px);
 }
@@ -20,21 +20,32 @@
 .btn-ghost {
   border-radius: 30px;
   background-color: transparent;
-  border-color: var(--color-primary);
+  border-color: var(--color-accent-two);
   transition: all .3s ease 0s;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: .7em;
+  padding-bottom: .7em;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
 }
 
 .btn-ghost:hover {
   color: #fff;
+  background-color: var(--color-accent-two);
   box-shadow: 0 15px 20px var(--color-accent);
   transform: translateY(-7px);
 }
 
 .btn-light {
-  background-color: var(--color-accent);
-  color: var(--color-primary);
+  background-color: var(--color-primary);
+  color: #fff;
   transition: all .3s ease 0s;
   border-radius: 30px;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: .7em;
+  padding-bottom: .7em;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
 }
 
 .btn-light:hover {
