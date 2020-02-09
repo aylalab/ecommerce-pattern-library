@@ -20,7 +20,6 @@
 .btn-ghost {
   border-radius: 30px;
   background-color: transparent;
-  color: var(--color-primary);
   border-color: var(--color-primary);
   transition: all .3s ease 0s;
 }
@@ -33,7 +32,6 @@
 
 .btn-light {
   background-color: var(--color-accent);
-  border-color: var(--color-primary);
   color: var(--color-primary);
   transition: all .3s ease 0s;
   border-radius: 30px;
