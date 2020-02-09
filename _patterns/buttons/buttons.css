@@ -33,6 +33,7 @@
 .btn-ghost:hover {
   color: #fff;
   background-color: var(--color-accent-two);
+  border: none;
   box-shadow: 0 15px 20px var(--color-accent);
   transform: translateY(-7px);
 }
@@ -50,8 +51,8 @@
 }
 
 .btn-light:hover {
-  color: #fff;
-  background-color: var(--color-primary);
+  color: var(--color-primary);
+  background-color: var(--color-accent);
   box-shadow: 0 15px 20px var(--color-accent);
   transform: translateY(-7px);
 }
