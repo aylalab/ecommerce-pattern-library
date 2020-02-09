@@ -13,6 +13,7 @@ patterns:
     title: "Ghost"
     description: |
       The ghost button is specifically for banners, where it will be placed in front of busy banners.
+    background: "--color-primary"
 
   light:
     title: "Light"
