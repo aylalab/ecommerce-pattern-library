@@ -6,26 +6,3 @@
 .card h1 {
   color: #fff;
 }
-
-.regular {
-  background-color: var(--color-crimson);
-  color: #fff;
-  border-radius: 8px;
-}
-
-.dark-roast {
-  background-color: var(--color-primary);
-  color: #fff;
-  border-radius: 8px;
-}
-
-.espresso {
-  background-color: var(--color-navy);
-  color: #fff;
-  border-radius: 8px;
-}
-
-.content:hover {
-  transition: all .3s ease 0s;
-  transform: translateY(-7px);
-}
