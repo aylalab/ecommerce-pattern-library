@@ -23,3 +23,12 @@ input:invalid + .error-message,
 input:invalid + label + .error-message {
   display: block;
 }
+
+input {
+  border: 3px solid var(--color-primary);
+  border-radius: 8px;
+}
+
+label {
+  color: var(--color-accent);
+}
