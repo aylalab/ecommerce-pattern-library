@@ -25,10 +25,10 @@ input:invalid + label + .error-message {
 }
 
 input {
-  border: 3px solid var(--color-primary);
+  border: 3px solid var(--color-accent);
   border-radius: 8px;
 }
 
 label {
-  color: var(--color-accent);
+  color: var(--color-primary);
 }
