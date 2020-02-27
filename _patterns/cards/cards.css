@@ -6,3 +6,76 @@
 .card h1 {
   color: #fff;
 }
+
+.hero-banner {
+  background-image: url("../images/home-banner.jpg");
+  background-repeat: none;
+  color: #fff;
+}
+
+.hero-banner h1 {
+  color: #fff;
+}
+
+.sustain {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+.sustain h1, .sustain h6 {
+  color: #fff;
+}
+
+.regular h3,
+.dark-roast h3,
+.espresso h3 {
+  color: #fff;
+}
+
+.regular {
+  background-color: var(--color-crimson);
+  border-radius: 10px;
+  color: #fff;
+}
+
+.regular:hover {
+  transition: all .3s ease 0s;
+  transform: translateY(-7px);
+  background-color: var(--color-crimson-light);
+  color: var(--color-crimson);
+}
+
+.dark-roast {
+  background-color: var(--color-primary);
+  border-radius: 10px;
+}
+
+.regular:hover {
+  transition: all .3s ease 0s;
+  transform: translateY(-7px);
+  background-color: var(--color-primary-light);
+}
+
+.espresso {
+  background-color: var(--color-navy);
+  border-radius: 10px;
+}
+
+.regular:hover {
+  transition: all .3s ease 0s;
+  transform: translateY(-7px);
+  background-color: var(--color-navy-light);
+}
+
+.title {
+  top: 340px;
+}
+
+.number {
+  top: 300px;
+}
+
+.about {
+  height: 300px;
+  width: 200px;
+}

@@ -26,7 +26,8 @@ h1 {
 
 h2 {
   font-weight: bold;
-  color: var(--color-primary);
+  font-family: var(--font-secondary);
+  color: var(--color-accent);
 }
 
 h3 {

@@ -3,60 +3,25 @@ description: |
   This is the form the user will fill out when purchasing items from the site.
 
 patterns:
-  first-name:
-    title: "First Name"
+  text:
+    title: "Text"
     description: |
-      The user will be prompted to enter their first name for the order.
+      The user will be prompted to type in any information required for the order.
 
-  last-name:
-    title: "Last Name"
+  select:
+    title: "Select"
     description: |
-      The user will be prompted to enter their last name for the order.
-
-  company:
-    title: "Company"
-    description: |
-      The user will be asked to enter a company name if applicable (this field is optional).
-
-  address:
-    title: "Address"
-    description: |
-      The user will be prompted to enter an address.
-
-  apartment:
-    title: "Apartment"
-    description: |
-      The user will be asked to enter an apartment name or suite number if applicable (this field is optional).
-
-  city:
-    title: "City"
-    description: |
-      The user will be asked to enter a city.
-
-  country:
-    title: "Country"
-    description: |
-      The user will be asked to select a country or region.
-
-  province:
-    title: "Province"
-    description: |
-      The user will be asked to select a province.
-
-  postal:
-    title: "Postal Code"
-    description: |
-      The user will be asked to enter a postal code.
-
-  phone:
-    title: "Phone Number"
-    description: |
-      The user will be asked to enter their phone number.
+      The user will be asked to select a piece of information pertinent to the order.
 
   email:
     title: "Email"
     description: |
       The user will be asked to enter their email address.
+
+  phone:
+    title: "Phone Number"
+    description: |
+      The user will be prompted to enter a phone number.
 
   submit:
     title: "Submit"
