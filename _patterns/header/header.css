@@ -1,0 +1,17 @@
+header {
+  background-color: var(--color-primary);
+}
+
+li a {
+  color: #fff;
+}
+
+li a:hover {
+  transform: translateY(-7px);
+  transition: all .4s ease 0s;
+  border-bottom: 2px solid #fff;
+}
+
+img {
+  color: #fff;
+}
