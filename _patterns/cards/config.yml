@@ -3,11 +3,6 @@ description: |
   Cards serve to display important information to the viewer, and should be used as banners or product links.
 
 patterns:
-  home-banner:
-    title: "Home Hero Banner"
-    description: |
-      This will be the first thing the viewer sees when they visit the website. It introduces them to the company and the products being sold.
-
   greencup:
     title: "Green Cup Initiative"
     description: |
