@@ -36,3 +36,7 @@ input, select {
 label {
   color: var(--color-primary);
 }
+
+.btn-light {
+  border: none;
+}
