@@ -1,0 +1,9 @@
+.hero-banner {
+  background-image: url("../images/home-banner.jpg");
+  background-repeat: none;
+  color: #fff;
+}
+
+.hero-banner h1 {
+  color: #fff;
+}
