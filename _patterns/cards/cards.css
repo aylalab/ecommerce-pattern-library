@@ -38,12 +38,14 @@
 .dark-roast {
   background-color: var(--color-primary);
   border-radius: 10px;
+  color: #fff;
 }
 
-.regular:hover {
+.dark-roast:hover {
   transition: all .3s ease 0s;
   transform: translateY(-7px);
-  background-color: var(--color-primary-light);
+  background-color: var(--color-crimson-light);
+  color: var(--color-primary);
 }
 
 .espresso {
@@ -51,10 +53,11 @@
   border-radius: 10px;
 }
 
-.regular:hover {
+.espresso:hover {
   transition: all .3s ease 0s;
   transform: translateY(-7px);
-  background-color: var(--color-navy-light);
+  background-color: var(--color-crimson-light);
+  color: var(--color-navy);
 }
 
 .title {

@@ -1,0 +1,39 @@
+title: "Sections"
+description: |
+  These are various sections of content that can be found throughout the website.
+
+patterns:
+  about-text:
+    title: "About"
+    description: |
+      This is the text that provides the user with background information about the company on the homepage.
+
+  checkout:
+    title: "Checkout"
+    description: |
+      This section provides a breakdown of the products and total prices on the checkout page.
+
+  products-banner:
+    title: "Products"
+    description: |
+      This is the hero banner that displays on the products page.
+
+  product-details:
+    title: "Product Details"
+    description: |
+      This section provides the user with details about a certain product selected from the products page, and allows them to add it to their cart.
+
+  sustainability:
+    title: "Sustainability"
+    description: |
+      This section provides the user with background information on how this company is taking action to be more sustainable, and allows them to visit a different page to learn more.
+
+  newsletter:
+    title: "Newsletter"
+    description: |
+      This section displays at the bottom of the page above the footer and allows the user to enter their email address in order to receive monthly newsletters.
+
+  home-hero-banner:
+    title: "Home Banner"
+    description: |
+      This is the hero banner that displays on the homepage of the website.

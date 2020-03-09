@@ -1,0 +1,14 @@
+title: "Navigation"
+description: |
+  These are the secondary navigation components that the user will encounter while using this site.
+
+patterns:
+  return-cart:
+    title: "Return to cart"
+    description: |
+      This is the button that prompts the user to return to the cart while on the checkout page.
+
+  return-products:
+    title: "Return to products"
+    description: |
+      This is the button that prompts the user to return to the products page while on the product details page.
