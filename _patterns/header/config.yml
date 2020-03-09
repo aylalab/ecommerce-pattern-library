@@ -1,0 +1,9 @@
+title: "Header"
+description: |
+  This is the header containing the main navigation and will be on most pages of the website.
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      This is the header containing the main navigation and will be on most pages of the website.
