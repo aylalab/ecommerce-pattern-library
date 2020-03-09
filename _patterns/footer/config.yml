@@ -1,0 +1,10 @@
+title: "Footer"
+description: |
+  This is the footer containing additional navigation links and social media icons and will be present on every page.
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      This is the footer containing the additional navigation and will be on all pages of the website.
+    background: "--color-primary"

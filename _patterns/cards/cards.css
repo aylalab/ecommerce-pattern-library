@@ -35,10 +35,18 @@
   color: var(--color-crimson);
 }
 
+.regular:hover h3 {
+  color: var(--color-crimson);
+}
+
 .dark-roast {
   background-color: var(--color-primary);
   border-radius: 10px;
   color: #fff;
+}
+
+.dark-roast:hover h3 {
+  color: var(--color-primary);
 }
 
 .dark-roast:hover {
@@ -57,6 +65,10 @@
   transition: all .3s ease 0s;
   transform: translateY(-7px);
   background-color: var(--color-crimson-light);
+  color: var(--color-navy);
+}
+
+.espresso:hover h3 {
   color: var(--color-navy);
 }
 

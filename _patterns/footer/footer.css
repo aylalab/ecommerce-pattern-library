@@ -1,7 +1,31 @@
-footer {
-  background-color: var(--color-primary);
+footer a {
+  color: #fff;
 }
 
-footer li {
-  color: #fff;
+footer li:hover {
+  transform: translateY(-7px);
+  transition: all .4s ease 0s;
+  border-bottom: 2px solid #fff;
+}
+
+footer i:hover {
+  color: var(--color-accent-two);
+  transform: translateY(-2px);
+  transition: all .3s ease 0s;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .links {
+    text-align: right;
+    padding-bottom: 10px;
+  }
+
+  .logo {
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    transform: scale(1.2);
+  }
+
 }

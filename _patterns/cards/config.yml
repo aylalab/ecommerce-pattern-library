@@ -12,3 +12,8 @@ patterns:
     title: "Products"
     description: |
       These are the product cards that will link the user to the product description pages.
+
+  about:
+    title: "About Cards"
+    description: |
+      Photo cards that provide the user with a quick breakdown of what Green Java offers.
