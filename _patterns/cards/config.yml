@@ -8,17 +8,7 @@ patterns:
     description: |
       This card introduces the viewer to the Green Cup Initiative, a membership program that allows them to recieve a monthly subscription of coffee.
 
-  sustainability:
-    title: "Sustainability"
-    description: |
-      This card explains how Green Java sustainably sources their products and provides education about the impact the coffee industry has on the environment.
-
   products:
     title: "Products"
     description: |
       These are the product cards that will link the user to the product description pages.
-
-  about:
-    title: "What we're about"
-    description: |
-      This section explains Green Java's mission and demonstrates what they offer.

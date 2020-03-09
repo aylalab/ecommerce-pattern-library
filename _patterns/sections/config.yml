@@ -6,7 +6,7 @@ patterns:
   about-text:
     title: "About"
     description: |
-      This is the text that provides the user with background information about the company on the homepage.
+      This section explains Green Java's mission and demonstrates what they offer.
 
   checkout:
     title: "Checkout"
