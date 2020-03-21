@@ -6,6 +6,9 @@ patternbot:
     An online coffee roasting company that specializes in sustainably sourcing and producing the best quality of coffee.
 
 patternbot:
+  layouts:
+    default: |
+      The default layout should be for almost every page, it includes the website's primary header & footer.
   font_url: "https://fonts.googleapis.com/css?family=Merriweather:900|Roboto:400,700&display=swap"
   colors:
     accent: "--color-primary"
@@ -18,3 +21,7 @@ patternbot:
       The primary color reflects the environmentally conscious approach that Green Java incorporates into their products. It should be used for most text elements and as a background color.
     colors.accent: |
       The accent colors are more neutral, earthy tones and should be used primarily for buttons and some textual elements.
+
+collections:
+  products:
+    output: true
