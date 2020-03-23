@@ -26,8 +26,8 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 
 ## Helpful links
 
-[*☛ Link to Netlify domain*]https://app.netlify.com/sites/priceless-bartik-bf4368/overview
-[*☛ Link to UX research & prototype*]https://xd.adobe.com/view/335937fa-30d4-4e3e-442a-a43dd6a679fe-4568/
+[*☛ Link to Netlify domain*](https://app.netlify.com/sites/priceless-bartik-bf4368/overview)
+[*☛ Link to UX research & prototype*] (https://xd.adobe.com/view/335937fa-30d4-4e3e-442a-a43dd6a679fe-4568/)
 
 ---
 
