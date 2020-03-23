@@ -12,6 +12,12 @@ patterns:
     title: "Products"
     description: |
       These are the product cards that will link the user to the product description pages.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.products[0]"
+          type: Product
 
   about:
     title: "About Cards"
