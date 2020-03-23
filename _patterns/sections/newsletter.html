@@ -1,13 +1,15 @@
-<img class="newsletter-bg img-flex absolute" src="/images/newsletter-background.jpg" alt="" role="presentation">
-<div class="relative news gutter-2 pad-t-1-2 pad-t-1-2 text-center">
-  <h1 class="push-1-4">Newsletter</h1>
-  <p class="push-1-8">Enter your email to receive monthly newsletters containing special deals.</p>
-  <div class="gutter-2">
+<div>
+  <img class="newsletter-bg img-flex absolute" src="/images/newsletter-background.jpg" alt="" role="presentation">
+  <div class="relative news gutter-2 pad-t-1-2 pad-t-1-2 text-center">
+    <h1 class="push-1-4">Newsletter</h1>
+    <p class="push-1-8">Enter your email to receive monthly newsletters containing special deals.</p>
     <div class="gutter-2">
-      {% pattern form/text %}
-    </div>
-    <div class="pad-t bold">
-      {% pattern form/submit text="Submit" %}
+      <div class="gutter-2">
+        {% pattern form/text %}
+      </div>
+      <div class="pad-t bold">
+        {% pattern form/submit text="Submit" %}
+      </div>
     </div>
   </div>
 </div>
